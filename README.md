@@ -1,4 +1,4 @@
 # git_github_extra
-untracked :thinking:__
-added :raised_eyebrow:__
-modified :exploding_head:__
+untracked :thinking:\
+added :raised_eyebrow:\
+modified :exploding_head:\
