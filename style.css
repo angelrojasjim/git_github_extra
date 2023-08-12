@@ -14,3 +14,10 @@ li{
     width: fit-content;
     white-space: nowrap;
 }
+h2{
+    color: burlywood;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
