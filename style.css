@@ -1,0 +1,16 @@
+.barra_NAVEGACION{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+
+}
+li{
+    padding: 5%;
+    width: fit-content;
+    white-space: nowrap;
+}
